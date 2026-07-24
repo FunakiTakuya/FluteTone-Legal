@@ -1,0 +1,22 @@
+# GitHub Pages（Jekyll）— 検索・SNS向けメタデータ
+# 正本の Legal/ 同期スクリプトは本ファイルを上書きしない（公開リポ専用）
+
+title: FluteTone - フルート音出し練習
+description: >-
+  フルート初心者向け音出し練習アプリ「FluteTone」の使い方ガイドとサポート。
+  ロングトーン、ピッチ表示、無料と Pro、プライバシーポリシー・利用規約。
+url: "https://funakitakuya.github.io"
+baseurl: "/FluteTone-Legal"
+lang: ja
+locale: ja_JP
+
+theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

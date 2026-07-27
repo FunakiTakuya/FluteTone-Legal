@@ -37,6 +37,7 @@
 
 ### 使い方
 
-[使い方ガイド](guide.md)（機能の説明・操作の流れ）
+- [使い方ガイド（日本語）](guide.md)（画面つきの操作説明）
+- [User Guide (English)](guide-en.md)
 
 ---

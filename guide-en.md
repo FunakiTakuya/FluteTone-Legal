@@ -1,7 +1,7 @@
 # FluteTone — User Guide
 
 **Version:** 1.0.0  
-**Last updated:** 2026-07-27
+**Last updated:** 2026-07-28
 
 <p class="lang-switch"><a href="guide">日本語</a> · <strong>English</strong></p>
 
@@ -25,18 +25,9 @@ You can also check your streak and open the progress hub from the chart icon in 
 
 ## 2. During practice
 
-Confirm the target tone in preview, then Listen → countdown starts the session.
+Confirm the target tone in preview, then Listen → countdown starts the session. The **REC** indicator means the practice session is being recorded.
 
-| Panel | What it shows |
-|--------|----------------|
-| Pitch guide | Current note, Hz, and pitch trail near the target |
-| Goal progress | Progress toward the hold-time goal |
-| Clarity / Stability | How clear and steady the tone is |
-| Hold | Seconds held inside the target zone |
-| Mic input | Input level |
-| Coach | Short coaching tips |
-
-The **REC** indicator means the practice session is being recorded.
+See [§4 Panel reference](#4-panel-reference) for what each panel means, and [§3 Changing panel layout](#3-changing-panel-layout) to show, hide, resize, or reorder panels.
 
 ![Practice screen](images/guide/en/02-practice.jpg)
 
@@ -44,7 +35,62 @@ In Settings you can also adjust the reference pitch (A = 438–445 Hz) and tone-
 
 ---
 
-## 3. Practice review
+## 3. Changing panel layout
+
+Customize practice and review panels in **Settings → Panel layout**:
+
+1. **Practice panels** — layout during a session  
+2. **Review panels** — layout on the review screen  
+
+On each screen you can:
+
+- **Show / hide** panels (at least one main panel stays visible)
+- **Size** — Small / Medium / Large
+- **Reorder** — drag the control on the right
+- **Preview layout** — full-screen check (rotate the device for landscape)
+- **Restore default layout** — reset to the initial arrangement
+
+Placement adapts automatically to the screen size. Tap **ⓘ** next to a panel name for a short in-app description.
+
+Turning on a Pro-only panel (such as mouth camera) on the free plan opens the upgrade prompt.
+
+---
+
+## 4. Panel reference
+
+### Practice
+
+| Panel | What it shows |
+|--------|----------------|
+| Pitch guide | Karaoke-style target band scrolling left, with your pitch as a trail. Center line is “now”; gold marks the target |
+| Goal progress | Long tone: keep time vs goal. Scale: notes cleared vs total |
+| Clarity | How clean the tone sounds right now (live) |
+| Stability | How steady the pitch is right now (live) |
+| Hold | Seconds held inside the target zone |
+| Mic input | Input level—if low, move closer or blow more steadily |
+| Coach | Short tips (too high/low, near tune, need more sound) |
+| Input waveform | Attack and continuity of your sound |
+| Harmonic balance | Fundamental and overtones—a strong fundamental with gradual overtones usually means a clearer tone |
+| Scale progress | (L5) How many scale notes you cleared |
+| Mouth camera (Pro) | Front-camera embouchure view; frame with zoom/pan before practice |
+
+### Review
+
+| Panel | What it shows |
+|--------|----------------|
+| Playback | This practice, favorite/reference, or both; mix with the slider in Together mode |
+| Pitch trend | Vertical = pitch, horizontal = time; shaded band is the target; blue = this practice, gold = reference when shown |
+| Volume | Relative loudness over time (not pitch) |
+| Hold | Longest in-tune keep time in the session |
+| Clarity / Stability | Peak values for the session |
+| Pitch accuracy | How close average pitch was to the target (higher is better) |
+| Harmonic balance | Clarity / resonance guide |
+| This practice (mouth, Pro) | Mouth video from the session, synced to audio |
+| Favorite (mouth, Pro) | Comparison clip; sample framing guide if none is saved |
+
+---
+
+## 5. Practice review
 
 After a session, Review shows Cleared / Not cleared, pitch trend, playback, volume, and scores.
 
@@ -56,7 +102,7 @@ Audio review is available on the free plan. Mouth-camera video panels are Pro.
 
 ---
 
-## 4. FluteTone Pro
+## 6. FluteTone Pro
 
 Pro unlocks:
 
@@ -71,7 +117,7 @@ Purchase or restore from **Settings → Subscription**. Cancel in iOS Settings �
 
 ---
 
-## 5. Free vs Pro
+## 7. Free vs Pro
 
 | Feature | Free | Pro |
 |------|------|------|
@@ -83,16 +129,16 @@ Purchase or restore from **Settings → Subscription**. Cancel in iOS Settings �
 
 ---
 
-## 6. Mouth camera (Pro)
+## 8. Mouth camera (Pro)
 
-- Turn on mouth-camera panels from **panel layout** for practice and review.
+- Turn on mouth-camera panels from **Settings → Panel layout** (practice / review).
 - Free users who enable a Pro panel see the upgrade prompt.
 - Video stays on device; it is not sent to developer servers.
 - Camera permission is requested only when using mouth panels. Audio-only practice needs the microphone only.
 
 ---
 
-## 7. Progress and history
+## 9. Progress and history
 
 - Open the progress hub from the chart icon on Home.
 - Streak is free; growth charts are Pro.

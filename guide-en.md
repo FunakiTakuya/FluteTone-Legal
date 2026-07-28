@@ -62,7 +62,7 @@ Turning on a Pro-only panel (such as mouth camera) on the free plan opens the up
 
 | Panel | What it shows |
 |--------|----------------|
-| Pitch guide | Karaoke-style target band scrolling left, with your pitch as a trail. Center line is “now”; gold marks the target |
+| Pitch guide | Target pitch band scrolls left, with your played pitch as a trail. Center line is “now”; gold marks the target |
 | Goal progress | Long tone: keep time vs goal. Scale: notes cleared vs total |
 | Clarity | How clean the tone sounds right now (live) |
 | Stability | How steady the pitch is right now (live) |

@@ -1,11 +1,15 @@
 # FluteTone — User Guide
 
 **Version:** 1.1.0  
-**Last updated:** 2026-08-04
+**Last updated:** 2026-08-05
 
 <p class="lang-switch"><a href="guide">日本語</a> · <strong>English</strong></p>
 
-This page is the user guide for **FluteTone**, a flute tone practice app. Use it when you want a screen-by-screen walkthrough after the short in-app tutorial (**Settings → Getting started**).
+**FluteTone** helps beginner flutists with first tone and long tones by showing pitch and keep time in real time. Use it as a practice aid when sound production or intonation feels unstable. Levels L0–L3 are free.
+
+**[Get it on the App Store](https://apps.apple.com/app/id6795169747)**
+
+This page is a screen-by-screen walkthrough. After the short in-app tutorial (**Settings → Getting started**), use it whenever you want more detail.
 
 - [Support](support)
 - [Privacy Policy](privacy-policy)
@@ -148,6 +152,7 @@ Purchase or restore from **Settings → Subscription**. Cancel in iOS Settings �
 
 ## Related
 
+- **[Get it on the App Store](https://apps.apple.com/app/id6795169747)**
 - [Support](support)
 - [Terms of Use](terms-of-use)
 - [Commercial Transactions Act disclosure (Japanese)](tokushoho)

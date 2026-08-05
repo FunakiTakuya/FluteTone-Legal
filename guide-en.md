@@ -1,7 +1,7 @@
 # FluteTone — User Guide
 
-**Version:** 1.0.0  
-**Last updated:** 2026-07-28
+**Version:** 1.1.0  
+**Last updated:** 2026-08-04
 
 <p class="lang-switch"><a href="guide">日本語</a> · <strong>English</strong></p>
 
@@ -15,7 +15,7 @@ This page is the user guide for **FluteTone**, a flute tone practice app. Use it
 
 ## 1. Choose a practice on Home
 
-Home lists levels **L0–L5**. **L0–L3 are free**; **L4–L5 require FluteTone Pro**. Tapping a locked row opens the Pro upgrade sheet.
+Home lists practice levels. **L0–L3 are free**; **L4 and later require FluteTone Pro** (some levels show as Coming soon). Tapping a locked row opens the Pro upgrade sheet.
 
 You can also check your streak and open the progress hub from the chart icon in the top right.
 
@@ -71,7 +71,7 @@ Turning on a Pro-only panel (such as mouth camera) on the free plan opens the up
 | Coach | Short tips (too high/low, near tune, need more sound) |
 | Input waveform | Attack and continuity of your sound |
 | Harmonic balance | Fundamental and overtones—a strong fundamental with gradual overtones usually means a clearer tone |
-| Scale progress | (L5) How many scale notes you cleared |
+| Scale progress | (Scale levels) How many scale notes you cleared |
 | Mouth camera (Pro) | Front-camera embouchure view; frame with zoom/pan before practice |
 
 ### Review
@@ -106,7 +106,7 @@ Audio review is available on the free plan. Mouth-camera video panels are Pro.
 
 Pro unlocks:
 
-- L4 high-register long tone / L5 scale challenge
+- L4+ practice (high notes, chromatics, endurance, scales; some levels coming soon)
 - Mouth-camera and review video panels
 - Unlimited history
 - Per-level growth charts
@@ -121,7 +121,7 @@ Purchase or restore from **Settings → Subscription**. Cancel in iOS Settings �
 
 | Feature | Free | Pro |
 |------|------|------|
-| Levels | L0–L3 | L0–L5 |
+| Levels | L0–L3 | L4+ (except Coming soon) |
 | Audio review | Yes | Yes |
 | Mouth-camera panels | — | Yes |
 | History | Last 5 | Unlimited |

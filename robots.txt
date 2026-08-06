@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://funakitakuya.github.io/FluteTone-Legal/sitemap.xml
+Sitemap: https://funakitakuya.github.io/FluteTone-Legal/sitemap.txt

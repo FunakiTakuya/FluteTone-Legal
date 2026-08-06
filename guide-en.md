@@ -1,15 +1,54 @@
-# FluteTone — User Guide
+---
+title: FluteTone — Flute tone & long-tone practice (User Guide)
+description: >-
+  FluteTone is a free beginner flute practice app that shows pitch and hold time
+  from the microphone. Long tones, L0–L3 free. Install from the App Store.
+image: /images/guide-hero.png
+---
+
+# FluteTone — Flute tone & long-tone practice (User Guide)
 
 **Version:** 1.1.0  
-**Last updated:** 2026-08-05
+**Last updated:** 2026-08-06
 
 <p class="lang-switch"><a href="guide">日本語</a> · <strong>English</strong></p>
 
-**FluteTone** helps beginner flutists with first tone and long tones by showing pitch and keep time in real time. Use it as a practice aid when sound production or intonation feels unstable. Levels L0–L3 are free.
+**FluteTone** helps beginner flutists with **first tone and long tones** by showing **pitch and keep time** from the microphone on iPhone / iPad. Use it when sound production or intonation feels unstable. Levels **L0–L3 are free**.
 
-**[Get it on the App Store](https://apps.apple.com/app/id6795169747)**
+| Where | Name |
+|------|------|
+| App Store | **FluteTone** |
+| Home screen | **FluteTone** |
+| In-app | **FluteTone** / **FluteTone Pro** |
 
-This page is a screen-by-screen walkthrough. After the short in-app tutorial (**Settings → Getting started**), use it whenever you want more detail.
+**Install:** [Open FluteTone on the App Store](https://apps.apple.com/app/id6795169747)  
+(See also [Get the app](#get-the-app) for a QR code.)
+
+This page is a screen-by-screen walkthrough after the short in-app tutorial (**Settings → Getting started**).
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "FluteTone",
+  "alternateName": ["FluteTone flute practice", "flute tone practice"],
+  "operatingSystem": "iOS",
+  "applicationCategory": "MusicApplication",
+  "description": "Beginner flute tone and long-tone practice app. Microphone pitch and hold display. L0–L3 free. Mouth camera (Pro).",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "JPY"
+  },
+  "url": "https://apps.apple.com/app/id6795169747",
+  "downloadUrl": "https://apps.apple.com/app/id6795169747",
+  "inLanguage": ["en", "ja"]
+}
+</script>
+
+<p align="center">
+  <img src="images/guide-hero.png" alt="FluteTone home screen with free L0–L3 practices and FluteTone Pro unlock" width="360" style="max-width: 100%; height: auto; border-radius: 12px;" />
+</p>
 
 - [Support](support-en)
 - [Privacy Policy](privacy-policy-en)
@@ -147,6 +186,23 @@ Purchase or restore from **Settings → Subscription**. Cancel in iOS Settings �
 - Open the progress hub from the chart icon on Home.
 - Streak is free; growth charts are Pro.
 - Delete individual or all records in **Settings → Practice data**.
+
+---
+
+## Get the app
+
+Start free (L4+ and mouth camera require FluteTone Pro).
+
+**Open on the App Store:** [FluteTone](https://apps.apple.com/app/id6795169747)
+
+<p align="left">
+  <img src="images/app-store-qr.png" alt="QR code to open FluteTone on the App Store" width="160" style="max-width: 160px; width: 160px; height: auto;" />
+</p>
+
+1. Scan the QR with your iPhone / iPad camera, then tap the link  
+2. Tap **Get** (or **Redownload**) on the App Store
+
+You can also search the App Store for **“FluteTone”** or **“flute tone”**.
 
 ---
 

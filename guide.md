@@ -1,15 +1,69 @@
-# FluteTone — 使い方ガイド
+---
+title: FluteTone｜フルート音出し・ロングトーン練習アプリ使い方ガイド
+description: >-
+  フルート初心者向けの無料音出し練習アプリ「FluteTone」。マイクでピッチとキープ秒数を表示、
+  ロングトーン・L0〜L3無料。使い方ガイドと App Store へのインストール案内。
+image: /images/guide-hero.png
+---
+
+# FluteTone｜フルート音出し・ロングトーン練習（使い方ガイド）
 
 **対象バージョン:** 1.1.0  
-**最終更新日:** 2026-08-05
+**最終更新日:** 2026-08-06
 
 <p class="lang-switch"><strong>日本語</strong> · <a href="guide-en">English</a></p>
 
-**FluteTone** は、フルート初心者の音出し・ロングトーンを、音程とキープ秒数で見える化する練習アプリです。部活やレッスンで「音が出ない」「音程が安定しない」ときの補助に使えます。L0〜L3 は無料です。
+**FluteTone** は、フルート初心者の **音出し・ロングトーン** を、マイク入力の **ピッチとキープ秒数** で見える化する iPhone / iPad 用練習アプリです。  
+部活やレッスンで「音が出ない」「音程が安定しない」ときの補助に使えます。**L0〜L3 は無料**です。
 
-**[App Store で入手する](https://apps.apple.com/app/id6795169747)**
+| 場所 | 表示名 |
+|------|--------|
+| App Store | **FluteTone** |
+| ホーム画面 | **FluteTone** |
+| アプリ内 | **FluteTone** / **FluteTone Pro** |
+
+**まずはインストール:** [App Store で開く（FluteTone）](https://apps.apple.com/app/id6795169747)  
+（下の [アプリを入れる](#アプリを入れる) に QR コードもあります）
 
 本ページは画面つきの操作ガイドです。アプリ内の短いチュートリアル（設定 → 使い方）のあとに、詳しく確認したいときにもご覧ください。
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "FluteTone",
+  "alternateName": ["FluteTone - フルート音出し練習", "フルート 音出し 練習"],
+  "operatingSystem": "iOS",
+  "applicationCategory": "MusicApplication",
+  "description": "フルート初心者向けの音出し・ロングトーン練習アプリ。マイクでピッチとキープ秒数を表示。L0〜L3無料。口元カメラ（Pro）。",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "JPY"
+  },
+  "url": "https://apps.apple.com/app/id6795169747",
+  "downloadUrl": "https://apps.apple.com/app/id6795169747",
+  "inLanguage": ["ja", "en"]
+}
+</script>
+
+<p align="center">
+  <img src="images/guide-hero.png" alt="FluteToneのホーム画面。L0〜L3の音出し練習と FluteTone Pro の案内" width="360" style="max-width: 100%; height: auto; border-radius: 12px;" />
+</p>
+
+## 目次
+
+1. [ホームで練習を選ぶ](#1-ホームで練習を選ぶ)
+2. [練習中の見かた](#2-練習中の見かた)
+3. [パネルレイアウトの変更](#3-パネルレイアウトの変更)
+4. [パネルの説明](#4-パネルの説明)
+5. [練習の振り返り](#5-練習の振り返り)
+6. [FluteTone Pro](#6-flutetone-pro)
+7. [無料と Pro のちがい](#7-無料と-pro-のちがい)
+8. [口元カメラ（Pro）](#8-口元カメラpro)
+9. [進捗と履歴](#9-進捗と履歴)
+10. [アプリを入れる](#アプリを入れる)
+11. [困ったとき](#困ったとき)
 
 - [サポート（お問い合わせ）](support)
 - [プライバシーポリシー](privacy-policy)
@@ -150,10 +204,43 @@ Pro では次が使えます。
 
 ---
 
+## アプリを入れる
+
+無料で始められます（L4 以降や口元カメラなどは FluteTone Pro）。
+
+**ストアで開く:** [FluteTone（App Store）](https://apps.apple.com/app/id6795169747)
+
+<p align="left">
+  <img src="images/app-store-qr.png" alt="FluteTone を App Store で開く QR コード" width="160" style="max-width: 160px; width: 160px; height: auto;" />
+</p>
+
+1. iPhone / iPad のカメラで QR を写す → 表示されたリンクをタップ  
+2. App Store で **入手**（または **再ダウンロード**）をタップ
+
+検索で探すときは App Store で **「FluteTone」** または **「フルート 音出し」** と入力しても見つかります。
+
+---
+
+## 困ったとき
+
+| 状況 | 対処 |
+|------|------|
+| ピッチが反応しない | マイク権限を許可。息を安定させて近づける。設定で基準ピッチ（A）を確認 |
+| Pro を買ったのに使えない | 設定 → サブスクリプション → **購入を復元する** |
+| カメラが出ない | Pro 契約とパネルレイアウトで口元パネルがオンか確認。カメラ権限を許可 |
+| 記録を消したい | 設定 → 練習記録 |
+
+その他の質問は [サポート](support) をご覧ください。
+
+---
+
 ## 関連ページ
 
 - **[App Store で入手する](https://apps.apple.com/app/id6795169747)**
 - [サポート](support)
+- [プライバシーポリシー](privacy-policy)
 - [利用規約](terms-of-use)
 - [特定商取引法に基づく表記](tokushoho)
 - [English User Guide](guide-en)
+
+---

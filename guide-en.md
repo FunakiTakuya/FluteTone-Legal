@@ -11,9 +11,9 @@
 
 This page is a screen-by-screen walkthrough. After the short in-app tutorial (**Settings → Getting started**), use it whenever you want more detail.
 
-- [Support](support)
-- [Privacy Policy](privacy-policy)
-- [Terms of Use](terms-of-use)
+- [Support](support-en)
+- [Privacy Policy](privacy-policy-en)
+- [Terms of Use](terms-of-use-en)
 
 ---
 
@@ -153,7 +153,7 @@ Purchase or restore from **Settings → Subscription**. Cancel in iOS Settings �
 ## Related
 
 - **[Get it on the App Store](https://apps.apple.com/app/id6795169747)**
-- [Support](support)
-- [Terms of Use](terms-of-use)
+- [Support](support-en)
+- [Terms of Use](terms-of-use-en)
 - [Commercial Transactions Act disclosure (Japanese)](tokushoho)
 - [日本語の使い方ガイド](guide)

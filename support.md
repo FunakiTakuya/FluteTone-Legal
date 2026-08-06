@@ -3,6 +3,8 @@
 **対象バージョン:** 1.1.0  
 **最終更新:** 2026-08-05
 
+<p class="lang-switch"><strong>日本語</strong> · <a href="support-en">English</a></p>
+
 ## アプリを入手する
 
 **[App Store で FluteTone を入手](https://apps.apple.com/app/id6795169747)**

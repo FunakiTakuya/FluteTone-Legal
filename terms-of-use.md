@@ -4,6 +4,8 @@
 
 運営者: 船木 拓也
 
+<p class="lang-switch"><strong>日本語</strong> · <a href="terms-of-use-en">English</a></p>
+
 ---
 
 ## 1. 適用

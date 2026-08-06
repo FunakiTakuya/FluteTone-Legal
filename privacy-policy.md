@@ -5,6 +5,8 @@
 運営者: 船木 拓也  
 お問い合わせ: funta@ymail.ne.jp
 
+<p class="lang-switch"><strong>日本語</strong> · <a href="privacy-policy-en">English</a></p>
+
 ---
 
 ## 1. はじめに
